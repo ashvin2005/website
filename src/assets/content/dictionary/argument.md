@@ -1,6 +1,6 @@
 ---
 title: argument
-definition: 'It refers to a value that is passed into a function or method to be processed. It is essentially a piece of data that the function or method uses to perform its task.'
+definition: 'Argument refers to a value that is passed into a function or method to be processed. An argument is essentially a piece of data that the function or method uses to perform its task.'
 sources:
 - sourceurl: https://docs.python.org/3/tutorial/controlflow.html#default-argument-values
 - sourceurl: https://en.wikipedia.org/wiki/Argument_of_a_function
